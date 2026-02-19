@@ -15,7 +15,7 @@
 # The program must use a function that accomplishes part of the needed tasks.
 
 
-# Generate the two random numbers to be added
+# Generate the two random numbers to be added 
 import random
 number1 = random.randint(1, 1000)
 number2 = random.randint(1, 1000)
